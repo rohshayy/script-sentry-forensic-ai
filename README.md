@@ -2,7 +2,7 @@
 ### **Biometric Authentication via Deep Latent Representation and Multi-Anchor Enrollment**
 
 ## **Executive Summary**
-Script-Sentry is a high-security Biometric Engine designed to distinguish between authentic human handwriting and high-quality forgeries. While traditional OCR (Optical Character Recognition) focuses on *character classification*, Script-Sentry analyzes **Stylometry**—the mathematical "DNA" of stroke patterns. By mapping handwriting into a deep latent space, the system can identify the biological "jitter" and unique stylistic signatures of an individual user.
+Script-Sentry is a high-security Biometric Engine designed to distinguish between authentic human handwriting and high-quality forgeries. While traditional OCR (Optical Character Recognition) focuses on *character classification*, Script-Sentry analyzes **Stylometry**;the mathematical "DNA" of stroke patterns. By mapping handwriting into a deep latent space, the system can identify the biological "jitter" and unique stylistic signatures of an individual user.
 
 ---
 
@@ -26,7 +26,7 @@ To account for natural human variance (since no one writes a letter exactly the 
 
 ---
 
-## **🚀 Execution Guide**
+## **Execution Guide**
 
 ### **1. Environment Setup**
 Install the required AI and imaging libraries:
